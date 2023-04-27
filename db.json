@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 13,
+      "name": "Chinna",
+      "phone": 7397184657,
+      "email": "admin@gmail.com",
+      "city": "",
+      "place": "Karur"
+    },
+    {
+      "id": 16,
+      "name": "test2",
+      "phone": 7397184657,
+      "email": "admin@gmail.com",
+      "city": "",
+      "place": "Chennai"
+    },
+    {
+      "id": 17,
+      "name": "Manoj",
+      "phone": 7397184657,
+      "email": "admin@gmail.com",
+      "city": "",
+      "place": "Bk"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
